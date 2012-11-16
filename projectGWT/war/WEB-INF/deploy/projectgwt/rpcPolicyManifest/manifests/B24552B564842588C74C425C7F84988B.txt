@@ -1,0 +1,2 @@
+serviceClass: com.example.project.client.ProjService
+path: 128E93F3176D2034BC152F927B09CDD0.gwt.rpc
